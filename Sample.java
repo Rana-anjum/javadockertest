@@ -1,6 +1,6 @@
 public class Sample
 {
-	public static void mai(string args[])
+	public static void main(String args[])
 	{
 		system.out.println("rana anjum");
 	}
